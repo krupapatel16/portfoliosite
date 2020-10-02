@@ -8,8 +8,7 @@
 6) $ npm install
 7) $ npm start
 
-# To view site live go to:
-https://master.d3q32yi9y7if3q.amplifyapp.com/
+
 
 # References:
 
